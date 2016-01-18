@@ -9,4 +9,3 @@ echo "source /vagrant/.profile" >> /home/vagrant/.bashrc
 
 cd /vagrant/sample-site
 npm install
-node index.js
