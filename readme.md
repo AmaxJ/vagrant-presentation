@@ -1,6 +1,6 @@
 ##Getting started with Vagrant
 
-###slides
+###Slides
 [Intro to Vagrant](http://slides.com/alanjohnson/deck)
 
 ###This repo:
